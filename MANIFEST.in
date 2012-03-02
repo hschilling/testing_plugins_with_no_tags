@@ -1,0 +1,5 @@
+
+
+graft src/test_plugin/sphinx_build/html
+recursive-include src/test_plugin/test *.py
+
